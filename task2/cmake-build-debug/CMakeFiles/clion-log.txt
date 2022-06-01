@@ -1,0 +1,4 @@
+/var/lib/snapd/snap/clion/189/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/var/lib/snapd/snap/clion/189/bin/ninja/linux/ninja -G Ninja -S /home/sad/oop/task2 -B /home/sad/oop/task2/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sad/oop/task2/cmake-build-debug

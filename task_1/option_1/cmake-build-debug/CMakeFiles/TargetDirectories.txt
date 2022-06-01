@@ -1,0 +1,3 @@
+/home/sad/oop/task_1/option_1/cmake-build-debug/CMakeFiles/untitled4.dir
+/home/sad/oop/task_1/option_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sad/oop/task_1/option_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

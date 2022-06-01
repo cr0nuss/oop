@@ -1,0 +1,3 @@
+/home/sad/oop/task_5/cmake-build-debug/CMakeFiles/number5.dir
+/home/sad/oop/task_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sad/oop/task_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
